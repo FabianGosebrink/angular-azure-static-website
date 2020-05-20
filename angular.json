@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-azure-static-website"
+    }
+  },
+  "defaultProject": "angular-azure-static-website",
+  "cli": {
+    "analytics": false
+  }
 }
